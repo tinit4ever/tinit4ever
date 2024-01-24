@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/tinit4ever](github.com/tinit4ever)
 
-- 💬 Ask me about **Swift, UIKit, Java, Spring Boot, JavaScript**
+- 💬 Ask me about **Swift, UIKit, Spring Boot, MSSQL**
 
 - 📫 How to reach me **tinit4ever@gmail.com**
 

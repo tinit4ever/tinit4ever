@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tinit4ever@gmail.com**
 
-- 📄 Know about my experiences [github.com/tinit4ever/resume]
+- 📄 Know about my experiences [github.com/tinit4ever/resume](https://github.com/tinit4ever/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinit4ever&label=Profile%20views&color=0e75b6&style=flat" alt="tinit4ever" /> </p>
 
-- 🌱 I’m currently learning **UIKit**
+- 🌱 I’m currently learning **iOS development**
 
 - 👨‍💻 All of my projects are available at [github.com/tinit4ever](https://github.com/tinit4ever)
 

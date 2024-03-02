@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tin</h1>
-<h3 align="center">A passionate iOS developer from Vietnam</h3>
+<h3 align="center">Crafting seamless iOS apps for a top-notch user experience</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/86/74/90/8674905b3c57ca65503d14f79fcc3b87.gif">
 
